@@ -1,0 +1,10 @@
+/* styles.css */
+
+div{
+    background-color: red;
+    color: white;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
