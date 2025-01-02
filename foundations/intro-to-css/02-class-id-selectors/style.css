@@ -1,0 +1,31 @@
+/* styles.css */
+
+*{
+    font-family: serif;
+}
+
+.first-paragraph{
+    background-color: lightcoral;
+    font-size: large;
+}
+
+#div-id{
+    color: blue;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.cooler{
+    background-color: lightcoral;
+    font-size: large;
+}
+
+#another-id{
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.last-class{
+    background-color: lightcoral;
+}
